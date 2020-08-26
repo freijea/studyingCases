@@ -1,0 +1,28 @@
+{
+  "name": "directory-working",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freijea/studyingCases.git"
+  },
+  "keywords": [
+    "directory"
+  ],
+  "author": "Jean Santos",
+  "license": "ISC",
+  "bin": {
+    "nols": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/freijea/studyingCases/issues"
+  },
+  "homepage": "https://github.com/freijea/studyingCases#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
